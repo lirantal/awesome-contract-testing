@@ -65,6 +65,8 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 - [Pact for Integration Testing of REST APIs](https://wilsonmar.github.io/pact/)
 - [Step by Step Consumer-Driven Contracts for Node](https://reflectoring.io/pact-node-provider/) - Step By Step Tutorial for Implementing Consumer-Driven Contracts for a Node Express Server with Pact.
 - [A Comprehensive Guide to Contract Testing APIs in a Service Oriented Architecture](https://medium.com/@liran.tal/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a) - A detailed read on implementing Consumer-Driven Contracts testing, covering Consumer & Provider testing, best and bad practices, DevOps recipe for implementation and supporting resources such as the Pact Manifest utility.
+- [How to set up Pact tests with Angular & Jest
+](https://medium.com/@dany.marques/how-to-set-up-pact-tests-with-angular-jest-ae157f272428) - Pact and Angular for frontend contract testing.
 
 ## Workshops
 - [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
