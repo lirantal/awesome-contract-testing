@@ -70,7 +70,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Workshops
 - [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
-- [Pact Workshop JS](https://github.com/DiUS/pact-workshop-js) - Step by Step Pact workshop.
+- [Pact Workshop JS](https://github.com/pact-foundation/pact-workshop-js) - Step by Step Pact workshop.
 
 # Contributing
 Found an awesome project, package, article, other type of resources related to Node.js Security? Send me a pull request!
