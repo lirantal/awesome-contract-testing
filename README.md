@@ -17,7 +17,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 # Table of Contents
 
-- [SDKs and Frameworks](#projects)
+- [sdks-and-frameworks](#projects)
   - [Node.js](#nodejs)
   - [JavaScript](#javascript)
   - [Java](#java)
@@ -28,7 +28,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
   - [.NET](#net)
 - [Educational](#educational)
   - [Articles](#articles)
-- [Companies](#companies)
+- [Workshops](#workshops)
 
 # SDKs and Frameworks
 - [PACT](https://docs.pact.io) - Mainstream and mature contract testing framework for Node.js, Ruby, Java and other platforms.
