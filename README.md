@@ -17,19 +17,23 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 # Table of Contents
 
-- [SDKs and Frameworks](#projects)
+- [sdks-and-frameworks](#projects)
   - [Node.js](#nodejs)
   - [JavaScript](#javascript)
   - [Java](#java)
+  - [Ruby](#ruby)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Go](#go)
+  - [.NET](#net)
 - [Educational](#educational)
   - [Articles](#articles)
-- [Companies](#companies)
+- [Workshops](#workshops)
 
 # SDKs and Frameworks
 - [PACT](https://docs.pact.io) - Mainstream and mature contract testing framework for Node.js, Ruby, Java and other platforms.
 - [PACT Broker](https://github.com/pact-foundation/pact_broker) - Enables your consumer driven contracts workflow (http://pact.dius.com.au/).
 - [PACT Stub Server](https://github.com/pact-foundation/pact-stub-server) - Wraps the Pact Rust mock server in a Docker container.
-
 - [Spring Cloud Contract](#https://cloud.spring.io/spring-cloud-contract/) - 
 
 ## Node.js
@@ -42,7 +46,6 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 - [PACT Node.js](#) - 
 
 ## Ruby
-
 - [PACT Ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider projectl
 
 ## PHP
@@ -54,6 +57,9 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 ## Go
 - [PACT Go](https://github.com/pact-foundation/pact-go) - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
+## .NET
+- [PACT Net](https://github.com/pact-foundation/pact-net) - C# version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+- [com-pact](https://github.com/bartschotten/com-pact) - Another approach on creating Pact for .NET. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
 # Educational
 
