@@ -25,7 +25,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
   - [PHP](#php)
   - [Python](#python)
   - [Go](#go)
-  - [.NET](#dotnet)
+  - [.NET](#net)
 - [Educational](#educational)
   - [Articles](#articles)
 - [Companies](#companies)
@@ -58,7 +58,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 - [PACT Go](https://github.com/pact-foundation/pact-go) - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
 ## .NET
-- [PACT Dotnet](https://github.com/pact-foundation/pact-net) - C# version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+- [PACT Net](https://github.com/pact-foundation/pact-net) - C# version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 - [com-pact](https://github.com/bartschotten/com-pact) - Another approach on creating Pact for .NET. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
 # Educational
