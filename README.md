@@ -43,10 +43,11 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 - [PACT JavaScript](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
 
 ## Java
-- [PACT Node.js](#) - 
+- [PACT JVM](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+- [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
 
 ## Ruby
-- [PACT Ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider projectl
+- [PACT Ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 
 ## PHP
 - [PACT PHP](https://github.com/pact-foundation/pact-php) - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
