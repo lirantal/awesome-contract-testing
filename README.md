@@ -35,9 +35,12 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 - [PACT Broker](https://github.com/pact-foundation/pact_broker) - Enables your consumer driven contracts workflow (http://pact.dius.com.au/).
 - [PACT Stub Server](https://github.com/pact-foundation/pact-stub-server) - Wraps the Pact Rust mock server in a Docker container.
 - [Spring Cloud Contract](#https://cloud.spring.io/spring-cloud-contract/) - 
+- [Specmatic](https://specmatic.io/) - Open-source tool for Contract-Driven Development turning OpenAPI, AsyncAPI, and GraphQL into executable contracts.
 
 ## Node.js
 - [PACT Node.js](https://github.com/pact-foundation/pact-node) - Node version of Pact, a Contract Testing Framework.
+- [Specmatic Node.js](https://www.npmjs.com/package/specmatic) - Node wrapper of Specmatic.
+- [Specmatic Node.js Sample](https://github.com/specmatic/specmatic-order-api-nodejs) - Example of using Specmatic in a Node.js API.
 
 ## JavaScript
 - [PACT JavaScript](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
@@ -46,6 +49,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 - [PACT JVM](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
 - [BitDive](https://bitdive.io/) - Zero-code contract testing for Java/Kotlin. Captures real API traffic, auto-generates mocks from production behavior, and verifies API contracts through replay.
+- [Specmatic Java Sample](https://github.com/specmatic/specmatic-order-api-java) - Demonstrates contract testing an API in isolation using Specmatic.
 
 ## Ruby
 - [PACT Ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
@@ -55,13 +59,16 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Python
 - [PACT Python](https://github.com/pact-foundation/pact-python) - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+- [Specmatic Python Sample](https://github.com/specmatic/specmatic-order-api-python) - Example of using Specmatic with Python Flask.
 
 ## Go
 - [PACT Go](https://github.com/pact-foundation/pact-go) - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+- [Specmatic Go Sample](https://github.com/specmatic/specmatic-order-bff-go) - Example of using Specmatic with Go Gin framework.
 
 ## .NET
 - [PACT Net](https://github.com/pact-foundation/pact-net) - C# version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 - [com-pact](https://github.com/bartschotten/com-pact) - Another approach on creating Pact for .NET. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+- [Specmatic C# Sample](https://github.com/specmatic/specmatic-order-api-csharp) - Example of using Specmatic with C#.
 
 # Educational
 
@@ -79,6 +86,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 ## Workshops
 - [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
 - [Pact Workshop JS](https://github.com/pact-foundation/pact-workshop-js) - Step by Step Pact workshop.
+- [Specmatic Examples](https://github.com/specmatic) - Variety of sample projects to demonstrate how to implement contract-driven development across different technology stacks.
 
 # Contributing
 Found an awesome project, package, article, other type of resources related to Node.js Security? Send me a pull request!
