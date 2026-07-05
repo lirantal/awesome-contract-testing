@@ -35,9 +35,11 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 - [PACT Broker](https://github.com/pact-foundation/pact_broker) - Enables your consumer driven contracts workflow (http://pact.dius.com.au/).
 - [PACT Stub Server](https://github.com/pact-foundation/pact-stub-server) - Wraps the Pact Rust mock server in a Docker container.
 - [Spring Cloud Contract](#https://cloud.spring.io/spring-cloud-contract/) - 
+- [Specmatic](https://specmatic.io/) - Open-source tool for Contract-Driven Development turning OpenAPI, AsyncAPI, and GraphQL into executable contracts.
 
 ## Node.js
 - [PACT Node.js](https://github.com/pact-foundation/pact-node) - Node version of Pact, a Contract Testing Framework.
+- [Specmatic Node.js](https://www.npmjs.com/package/specmatic) - Node wrapper of Specmatic.
 
 ## JavaScript
 - [PACT JavaScript](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
@@ -55,6 +57,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Python
 - [PACT Python](https://github.com/pact-foundation/pact-python) - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+- [Specmatic Python](https://pypi.org/project/specmatic/) - Python wrapper of Specmatic.
 
 ## Go
 - [PACT Go](https://github.com/pact-foundation/pact-go) - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
@@ -79,6 +82,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 ## Workshops
 - [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
 - [Pact Workshop JS](https://github.com/pact-foundation/pact-workshop-js) - Step by Step Pact workshop.
+- [Specmatic Labs](https://github.com/specmatic/labs) - Contains all the Labs used during the Specmatic hands-on Workshop.
 
 # Contributing
 Found an awesome project, package, article, other type of resources related to Node.js Security? Send me a pull request!
