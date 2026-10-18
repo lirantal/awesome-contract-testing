@@ -57,6 +57,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 - [Gesso](https://studio-design.github.io/gesso/) - OpenAPI contract testing for PHP. Provider-side (spec-driven) contract testing with PHPUnit coverage, request/response validation, fuzzing, and drift detection. Adapters for Laravel, Symfony, Pest, and PSR-7.
 
 ## Python
+- [DriftWire](https://github.com/Haswell119/driftwire) - Detect API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
 - [PACT Python](https://github.com/pact-foundation/pact-python) - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [Specmatic Python](https://pypi.org/project/specmatic/) - Python wrapper of Specmatic.
 
